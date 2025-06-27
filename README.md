@@ -23,3 +23,8 @@ Welcome to the TM Restaurant website! This web application allows users to creat
 - help.html: A page where users can find contact links to the team members' LinkedIn profiles.
 - style.css: Contains the styles for the website.
 - Images folder: Contains images for the restaurant's dishes and other website elements.
+
+## Author
+
+- [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged) – Team Member
+- [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member 
